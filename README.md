@@ -1,4 +1,4 @@
-# Coding Challenge App
+# Git profile
 [![CircleCI](https://circleci.com/gh/kenware/git-profile/tree/staging.svg?style=svg)](https://circleci.com/gh/kenware/git-profile/tree/staging)
 
 Git profile is an app that merge team/organisations github profile and bitbucket profile serving as a single source of truth.
