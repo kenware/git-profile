@@ -5,6 +5,9 @@ jobs:
     docker:
       # specify the version you desire here
       - image: circleci/python:3.6.5
+        environment:
+          GITHUB_CLIENT_ID: hggduuueu
+          GITHUB_CLIENT_SECRETE: hdgsyhh
     working_directory: ~/git-profile
     steps:
       - checkout
